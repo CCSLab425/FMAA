@@ -1,7 +1,7 @@
 # Few-shot Metric Adversarial Domain Adaptation for Cross-machine Fault Diagnosis
 ##1. Importance
 ###1.1 FMAA-Pytorch
-- pytorch implement for the CDC 2024 paper [Few-Shot Metric Adversarial Domain Adaptation for Cross-machine Fault Diagnosis](https://arxiv.org/abs/1711.02536)
+- pytorch implement for the CDC 2024 paper [Few-Shot Metric Adversarial Domain Adaptation for Cross-machine Fault Diagnosis](https://css.paperplaza.net/images/temp/CDC/files/0439.pdf)
 
 ###1.2 Install dependencies
 * This code has been tested on  Python 3.8. pytorch 1.10.2. 
